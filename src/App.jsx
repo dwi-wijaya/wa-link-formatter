@@ -26,6 +26,7 @@ function App() {
   return (
     <div className="App card card-body" style={{borderRadius:"20px"}}>
       <h5 className='mb-0'>WhatsApp Link Formatter</h5>
+      <small><a href="https://github.com/11Dwiwijaya">created by :  Dwi wijaya <li className="fa-brands fa-github"> </li>  </a></small>
       <hr />
       <div className="input-group mb-3">
       <input
